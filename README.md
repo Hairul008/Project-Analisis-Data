@@ -51,6 +51,8 @@ pipenv shell
 
 # Install dependencies dari requirements.txt
 pip install -r requirements.txt
+
+pip install pillow
 ```
 
 ## Menjalankan Aplikasi Streamlit
