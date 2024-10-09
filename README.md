@@ -34,11 +34,14 @@ pip install -r requirements.txt
 ### 2: Menggunakan Shell/Terminal (Pipenv)
 
 ```bash
+#Clone this repository to your local machine:
+git clone https://github.com/Hairul008/Project-Analisis-Data.git
+
 # Buat direktori baru untuk proyek
-mkdir proyek_analisis_data
+mkdir Proyek_Analisis_Data
 
 # Masuk ke direktori proyek
-cd proyek_analisis_data
+cd Proyek_Analisis_Data
 
 # Inisialisasi environment baru dengan pipenv
 pipenv install
